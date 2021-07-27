@@ -121,7 +121,7 @@ Weather.getForecast("Kolkata", function(forecast) {
 55
 [openweathermap.org]: http://openweathermap.org
 56
-[Weather.js]: http://github.com/ItsRoy69/weather
+[Weather.js]: http://github.com/ItsRoy69/Weatherjs
 57
 [Sugar.js]: http://sugarjs.com/
 58
