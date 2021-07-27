@@ -51,6 +51,7 @@ cd Weatherjs(folder)
 npm init
 npm i express
 npm i body-parse
+nodemon app.js
 
 ```
 
