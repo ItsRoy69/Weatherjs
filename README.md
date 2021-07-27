@@ -1,33 +1,8 @@
 # Weatherjs
 
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ItsRoy69 
-noazark
-/
-weatherjs.com
-2
-74
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.
-weatherjs.com
-/
 README.md
 in
-noazark:gh-pages
+ItsRoy69:gh-pages
  
 
 Spaces
@@ -42,7 +17,7 @@ Weather.js
 3
 ​
 4
-[![Build Status](https://secure.travis-ci.org/noazark/weather.png?branch=master)](https://travis-ci.org/noazark/weather)
+[![Build Status](https://secure.travis-ci.org/ItsRoy69/weather.png?branch=master)](https://travis-ci.org/ItsRoy69/weather)
 5
 ​
 6
@@ -146,7 +121,7 @@ Weather.getForecast("Kolkata", function(forecast) {
 55
 [openweathermap.org]: http://openweathermap.org
 56
-[Weather.js]: http://github.com/noazark/weather
+[Weather.js]: http://github.com/ItsRoy69/weather
 57
 [Sugar.js]: http://sugarjs.com/
 58
