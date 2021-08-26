@@ -1,13 +1,5 @@
 # Weatherjs
 
-
-Weather.js
-
-==========
-
-​
-
-
 ## About
 
 ​
